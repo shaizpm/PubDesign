@@ -1,6 +1,24 @@
 {
-  "name": "foundation-libsass-template",
+  "name": "PubDesign",
   "dependencies": {
     "foundation": "zurb/bower-foundation"
-  }
+  },
+  "version": "0.0.1",
+  "authors": [
+    "shaizpm <shaiz.kunhimohammed@pubmatic.com>"
+  ],
+  "description": "PubDesign Repository",
+  "keywords": [
+    "pubdesign"
+  ],
+  "license": "Copyright PubMatic Pvt. Ltd.",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "www.pubmatic.com"
 }
